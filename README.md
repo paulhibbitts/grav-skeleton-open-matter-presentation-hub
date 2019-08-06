@@ -1,6 +1,6 @@
 # Grav Open Matter Presentation Hub Skeleton
 
-[![Demo](https://img.shields.io/badge/Demo-OpenPresentationHub-blue.svg?style=flat-square)](https://demo.hibbittsdesign.org/grav-open-matter-presentation-hub/)  
+[![Demo](https://img.shields.io/badge/Demo-OpenPresentationHub-blue.svg?style=flat-square)](https://demo.hibbittsdesign.org/grav-skeleton-open-matter-presentation-hub-site/)  
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-presentation-hub/blob/master/LICENSE)
 
 [![Discord](https://img.shields.io/discord/501836936584101899.svg?logo=discord&colorB=728ADA&label=Discord%20Chat)](https://chat.getgrav.org)
