@@ -35,4 +35,3 @@ theme_stylesheet: default
 navbar_bg: default
 navbar_bg_color: '#353a3f'
 git_sync_edit_theme_link_location: none
-git_sync_repo_link: 'https://github.com/paulhibbitts/demo-grav-skeleton-open-matter-presentation-hub-site/tree/master/pages/01.presentations/'
