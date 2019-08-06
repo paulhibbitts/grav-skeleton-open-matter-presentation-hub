@@ -29,5 +29,5 @@ Quick Install Instructions
 
 Grav Open Presentation Hub Screenshots
 ---
-![Presentation Hub Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/open-matter-course-hub.png?raw=true)  
+![Presentation Hub Screenshot](screenshot.jpg)  
 Example Grav Open Presentation Hub website. Explore an example open matter presentation hub site at [demo.hibbittsdesign.org/grav-open-matter-presentation-hub/](http://demo.hibbittsdesign.org/grav-open-matter-presentation-hub/)._
